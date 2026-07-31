@@ -11,3 +11,7 @@
 .idea/
 **/.idea/
 *.iml
+out/
+bin/
+target/
+build/
